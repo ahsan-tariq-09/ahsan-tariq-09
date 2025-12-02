@@ -40,13 +40,11 @@ I’m a Computer Science student exploring the intersection of **software develo
 ## 📫 Connect with Me
 
 <p align="left">
-
   <a href="mailto:atariq@knox.edu">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail.svg" 
-         alt="Gmail" width="30" />
+    <img src="assets/icons/gmail.png" alt="Gmail" width="28" />
     &nbsp;atariq@knox.edu
   </a>
-  <br>
+  <br />
 
   <a href="https://linkedin.com/in/ahsan-09-tariq/">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" 
