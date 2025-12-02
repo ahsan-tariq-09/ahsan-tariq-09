@@ -39,5 +39,5 @@ I’m a Computer Science student exploring the intersection of **software develo
 
 ## 📫 Connect with Me
 - 📧 Email: [atariq@knox.edu](mailto:atariq@knox.edu)
-- 💼 LinkedIn: [linkedin.com/in/ahsan-09-tariq/](linkedin.com/in/ahsan-09-tariq/)  
-- 🖥️ GitHub: [github.com/ahsan-500mbps](github.com/ahsan-500mbps)
+- 💼 LinkedIn: [Ahsan Tariq](https://linkedin.com/in/ahsan-09-tariq/)
+- 🖥️ GitHub: [ahsan-500mbps](https://github.com/ahsan-500mbps)
