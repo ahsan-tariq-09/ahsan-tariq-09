@@ -40,22 +40,28 @@ I’m a Computer Science student exploring the intersection of **software develo
 ## 📫 Connect with Me
 
 <p align="left">
+
   <a href="mailto:atariq@knox.edu">
-    <img src="assets/icons/gmail.png" alt="Gmail" width="28" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" 
+         alt="Gmail" width="30" />
     &nbsp;atariq@knox.edu
   </a>
-  <br />
+  <br>
 
   <a href="https://linkedin.com/in/ahsan-09-tariq/">
-    <img src="assets/icons/linkedin.png" alt="LinkedIn" width="28" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" 
+         alt="LinkedIn" width="30" />
     &nbsp;Ahsan Tariq
   </a>
-  <br />
+  <br>
 
   <a href="https://github.com/ahsan-500mbps">
-    <img src="assets/icons/github.png" alt="GitHub" width="28" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" 
+         alt="GitHub" width="30" />
     &nbsp;ahsan-500mbps
   </a>
+
 </p>
+
 
 
