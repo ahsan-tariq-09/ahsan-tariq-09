@@ -8,7 +8,7 @@ I’m a Computer Science student exploring the intersection of **software develo
 ## 🔧 Languages & Tools
 - ☕ **Java** – building strong foundations in object-oriented programming.  
 - 🐍 **Python** – scripting, experimenting, and automating.  
-- **Javascript and React.js**
+- ⚛️ 📝**Typescript and React.js**
 
 ---
 
