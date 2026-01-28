@@ -53,10 +53,10 @@ I’m a Computer Science student exploring the intersection of **software develo
   </a>
   <br>
 
-  <a href="https://github.com/ahsan-500mbps">
+  <a href="https://github.com/ahsan-tariq-09">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" 
          alt="GitHub" width="30" />
-    &nbsp;ahsan-500mbps
+    &nbsp;ahsan-tariq-09
   </a>
 
 </p>
