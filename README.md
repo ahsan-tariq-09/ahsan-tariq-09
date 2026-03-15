@@ -12,14 +12,14 @@ I’m a Computer Science student exploring the intersection of **software develo
 
 ---
 
-# 🔧 Languages & Tools
+## 🔧 Languages & Tools
 - ☕ **Java** – building strong foundations in object-oriented programming.  
 - 🐍 **Python** – scripting, experimenting, and automating.  
 - ⚛️ 📝**Typescript and React.js** - building fast, scalable front-end interfaces with clean, type-safe components.
 
 ---
 
-# 🚀 What I’m Working On
+## 🚀 What I’m Working On
 - Java projects from coursework and beyond.  
 - Exploring functional programming with Haskell to broaden my perspective.  
 - Small experiments with Python for quick ideas and automation.  
@@ -35,7 +35,7 @@ I’m a Computer Science student exploring the intersection of **software develo
 
 ---
 
-# 🌱 Current Goals
+## 🌱 Current Goals
 
 * Strengthen mastery of **Java, Python, TypeScript/React, and C++**, with a focus on writing cleaner, scalable code.
 * Build deeper fluency in **Haskell** and apply functional-programming patterns to real project architectures.
