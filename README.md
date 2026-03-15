@@ -5,14 +5,21 @@ I’m a Computer Science student exploring the intersection of **software develo
 
 ---
 
-## 🔧 Languages & Tools
+# 🌐 Portfolio
+
+🔗 **Visit my portfolio:**  
+👉 https://ahsan-tariq-09.github.io
+
+---
+
+# 🔧 Languages & Tools
 - ☕ **Java** – building strong foundations in object-oriented programming.  
 - 🐍 **Python** – scripting, experimenting, and automating.  
 - ⚛️ 📝**Typescript and React.js** - building fast, scalable front-end interfaces with clean, type-safe components.
 
 ---
 
-## 🚀 What I’m Working On
+# 🚀 What I’m Working On
 - Java projects from coursework and beyond.  
 - Exploring functional programming with Haskell to broaden my perspective.  
 - Small experiments with Python for quick ideas and automation.  
@@ -22,13 +29,13 @@ I’m a Computer Science student exploring the intersection of **software develo
 
 ---
 
-## 📂 Featured Repositories 
+# 📂 Featured Repositories 
 - [NeurIPS Code Golf](https://github.com/ahsan-500mbps/neurips-2025-google-code-golf-championship) – concise problem-solving in Python.  Developing programs to solve a variety of tasks (all drawn from the ARC-AGI benchmark suite) using the fewest possible number of characters.
 - [KG-RAG-Physio-Chatbot](https://github.com/ahsan-500mbps/KG-RAG-Physio-Chatbot) - Design and Implementation of a Knowledge-Graph-Enhanced Retrieval-Augmented Chatbot System for Physical Therapy (inprogress)
 
 ---
 
-## 🌱 Current Goals
+# 🌱 Current Goals
 
 * Strengthen mastery of **Java, Python, TypeScript/React, and C++**, with a focus on writing cleaner, scalable code.
 * Build deeper fluency in **Haskell** and apply functional-programming patterns to real project architectures.
@@ -37,7 +44,7 @@ I’m a Computer Science student exploring the intersection of **software develo
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect with Me
 
 <p align="left">
   <a href="mailto:atariq@knox.edu">
