@@ -32,6 +32,7 @@ I’m a Computer Science student exploring the intersection of **software develo
 ## 📂 Featured Repositories 
 - [NeurIPS Code Golf](https://github.com/ahsan-500mbps/neurips-2025-google-code-golf-championship) – concise problem-solving in Python.  Developing programs to solve a variety of tasks (all drawn from the ARC-AGI benchmark suite) using the fewest possible number of characters.
 - [KG-RAG-Physio-Chatbot](https://github.com/ahsan-500mbps/KG-RAG-Physio-Chatbot) - Design and Implementation of a Knowledge-Graph-Enhanced Retrieval-Augmented Chatbot System for Physical Therapy (inprogress)
+- [MIPS Simulator](https://github.com/ahsan-tariq-09/MIPS-Simulator) - This project runs a subset of MIPS assembly directly from .asm files (labels supported).
 
 ---
 
